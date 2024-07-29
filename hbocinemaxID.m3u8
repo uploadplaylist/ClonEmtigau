@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/157519.ts
+#EXTINF:1,
+http://mykingtv.net:2082/live/along88/8890/7127.ts
+#EXTINF:1,
+http://mykingtv.net:2082/live/Bae810/ktv9399/7127.ts
